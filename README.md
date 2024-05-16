@@ -2,7 +2,7 @@
 
 _by Luis Millet and Gian F. Villafañe_
 
-## Project Title: ## Project Title: Changes in Population due to Migration of Young Puerto Ricans
+## Project Title: Changes in Population due to Migration of Young Puerto Ricans
 
 ## Introduction:
 
